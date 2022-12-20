@@ -1,0 +1,13 @@
+{
+  "name": "gruv_round-mailspring",
+  "title": "GruvRound",
+  "displayName": "GruvRound",
+  "theme": "ui",
+  "version": "0.0.1",
+  "description": "🎨 Gruvbox theme for Mailspring, rounded corners.",
+  "license": "MIT",
+  "engines": {
+    "mailspring": "*"
+  }
+}
+
